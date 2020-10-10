@@ -1,0 +1,16 @@
+pip3 install package_name		- Common installation syntax
+pip3 install package_name==2.0.0        - Specific version
+pip3 install package_name --upgrade	- Updating version
+pip3 install -r packages.txt		- Installs all packages in once from txt file
+pip3 uninstall package_name		- Common uninstallation syntax
+pip3 search package_name 		- Searching that package before installing
+pip3 list				- List of installed packages
+pip3 freeze > packages.txt		- Export all packages(Libraries) in txt file
+pwd 					- Path of terminal
+
+
+===Virtual Envoirment===
+1. Open CMD via Admin.
+2. Go to cd project_name/Scripts/
+3. Activate.bat
+4. And common install packages
